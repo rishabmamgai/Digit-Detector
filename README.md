@@ -1,15 +1,15 @@
 # Digit-Detector
 Digit Detector integrated with Paint 3D based on MNIST dataset
 
-Dataset - MNIST Handwritten digit dataset (available at https://www.kaggle.com/avnishnish/mnist-original)
+MNIST Handwritten digit dataset, available at https://www.kaggle.com/avnishnish/mnist-original
 
 
-Using detector:
+Using detector -
 1. Run detector.py with all files and Paint 3D in same directory.
 2. Choose the image file to detect or launch Paint 3D for writing via touchscreen.
 
 
-Using with Paint 3D:
+Using with Paint 3D -
 1. Open canvas on Paint 3D, resize canvas to 500px x 500px.
 2. Choose brushes and fill the canvas with black color.
 3. Use oil brush with 28px thickness.
@@ -17,6 +17,6 @@ Using with Paint 3D:
 5. Screenshot of only canvas is taken instead of whole screen.
 
 
-Note - 
+Note -
 1. The pixel values mentioned above are based on data available on internet and various hit and trials.
 2. Currently the screenshot feature is fixed for 14inch screen with resolution 1920px x 1080px.
