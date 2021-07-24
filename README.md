@@ -20,3 +20,6 @@ Using with Paint 3D -
 Note -
 1. The pixel values mentioned above are based on data available on internet and various hit and trials.
 2. Currently the screenshot feature is fixed for 14inch screen with resolution 1920px x 1080px.
+
+
+For code explanation visit https://www.geeksforgeeks.org/handwritten-digit-recognition-using-neural-network/
